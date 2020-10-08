@@ -1,2 +1,2 @@
 # cool
-Cool is a website
+Advance Clock Website enabling social media links.
